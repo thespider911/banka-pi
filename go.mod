@@ -1,4 +1,4 @@
-module github.com/nathanmbicho/banka-pi
+module github.com/thespider911/banka-pi
 
 go 1.19
 
